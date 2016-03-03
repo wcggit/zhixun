@@ -1,0 +1,24 @@
+{
+  "generator-jhipster": {
+    "baseName": "myseek",
+    "packageName": "com.imbo.myseek",
+    "packageFolder": "com/imbo/myseek",
+    "authenticationType": "session",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "no",
+    "useSass": true,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "enableTranslation": false,
+    "enableSocialSignIn": false,
+    "rememberMeKey": "9ceaf226c2866ee0f7a6f80574beef0b94c3340b",
+    "testFrameworks": [
+      "gatling"
+    ]
+  }
+}
